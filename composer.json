@@ -1,10 +1,10 @@
 {
-  "name": "anigenero/php-barcode-generator",
+  "name": "hikashop-nicolas/php-barcode-generator",
   "description": "Barcode generator written in PHP",
   "keywords": [
     "barcode"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "type": "library",
   "include-path": [
@@ -15,6 +15,12 @@
       "name": "Robin Schultz",
       "email": "robin@anigenero.com",
       "homepage": "http://www.anigero.com",
+      "role": "Developer"
+    },
+    {
+      "name": "Nicolas Claverie",
+      "email": "contact@hikashop.com",
+      "homepage": "http://www.hikashop.com",
       "role": "Developer"
     }
   ]
